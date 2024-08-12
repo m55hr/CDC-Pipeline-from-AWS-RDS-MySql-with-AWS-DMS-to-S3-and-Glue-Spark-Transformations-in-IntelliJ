@@ -1,0 +1,4 @@
+pip3 install --upgrade jupyter aws-glue-sessions
+pip3 show aws-glue-sessions
+jupyter-kernelspec install glue_spark
+jupyter-kernelspec install glue_pyspark
