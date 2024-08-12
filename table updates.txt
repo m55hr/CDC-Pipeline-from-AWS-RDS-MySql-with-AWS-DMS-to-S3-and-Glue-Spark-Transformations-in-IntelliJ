@@ -1,0 +1,11 @@
+use sales;
+select * from orders;
+update orders set customername="bachu",productname="shoes" where orderid=2;
+insert into orders (orderid, customername, productname, orderamount)
+values (5, 'appu raja', 'watch', 1000.00);
+
+insert into orders (orderid, customername, productname, orderamount) 
+values (6, 'babu bisleri', 'cycle', 150.00);
+
+update orders set customername = 'dadu' where orderid = 5;
+delete from orders where orderid = 6;
