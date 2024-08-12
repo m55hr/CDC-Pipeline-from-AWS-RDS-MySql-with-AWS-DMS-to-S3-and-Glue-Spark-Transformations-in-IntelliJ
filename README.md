@@ -1,5 +1,5 @@
 
-![2](https://github.com/user-attachments/assets/21338b2e-0b90-490f-9172-5599562316c8)
+
 
 
 # CDC-Pipeline-from-AWS-RDS-MySql-with-AWS-DMS-to-S3-and-Glue-Spark-Transformations-in-IntelliJ
